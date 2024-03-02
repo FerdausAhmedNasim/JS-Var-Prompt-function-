@@ -3,7 +3,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/FerdausAhmedNasim/JS-Console.git
+git remote add origin https://github.com/FerdausAhmedNasim/JS-Var-Prompt-function-.git
 git push -u origin main
 
 
@@ -23,3 +23,6 @@ git push
 git add .
 git commit -m "first commit"
 git push 
+
+
+if you have any problem then you call git pull

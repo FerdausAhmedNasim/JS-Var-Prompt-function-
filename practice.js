@@ -1,3 +1,6 @@
+
+
+
 var one;
 document.write(one+"<br>")
 
@@ -68,3 +71,9 @@ console.log("age"+age);
 
 
 // }
+
+
+var name = 'nasim';
+var age= 37;
+var massage='My name is ${name} and age ${age} ' ;
+document.write(massage);
